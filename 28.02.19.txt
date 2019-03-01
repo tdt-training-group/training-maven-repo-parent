@@ -1,0 +1,14 @@
+tool : git - quan ly source ; -->git command
+eclipse -tich hop git; 
+mysql
+-----------------------
+maven.
+docker (tuy chon).
+-----------------------
+Java core (oop , design patten)
+
+---------------
+web service :
++sping boot.
++sping jpa;
++sping secutiry.
